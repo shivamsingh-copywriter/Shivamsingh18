@@ -648,7 +648,7 @@
         }
 
         .social-contact a:hover {
-            transform: translateY(-5px) scale(1.1);
+            transform: translateY(-5px);
         }
 
         .contact-form {
@@ -1059,7 +1059,7 @@
         <div class="container">
             <div class="about-content">
                 <div class="profile-container fade-in">
-                    <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" alt="Shivam Singh - Copywriter" class="profile-image">
+                    <img src="https://i.imgur.com/7Xr9VgD.jpg" alt="Shivam Singh - Copywriter" class="profile-image">
                 </div>
                 
                 <h2 class="fade-in">COPY THAT FEELS LIKE YOU. SELLS LIKE NEVER BEFORE.</h2>
